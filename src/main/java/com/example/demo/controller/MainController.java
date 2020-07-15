@@ -13,7 +13,7 @@ public class MainController {
 
     @RequestMapping("/info")
     public String info(){
-        String result=" this is demo alibaba ";
+        String result=" this is demo alibaba new";
         return result;
     }
 }
